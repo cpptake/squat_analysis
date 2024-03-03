@@ -2,7 +2,7 @@
 [こちら](https://speakerdeck.com/cpptake/jia-kong-nokonpe-sukuwatutohuomupan-bie-konpenojie-fa)で発表した、スクワットから体の角度を抽出するコード  
 
 # 環境
-[こちら](https://speakerdeck.com/cpptake/jia-kong-nokonpe-sukuwatutohuomupan-bie-konpenojie-fa)のDocker環境を利用。
+[こちら](https://github.com/cpptake/my_kaggle_docker)のDocker環境を利用。
 
 # 使い方
 - input/　直下にデータを抽出したい動画ファイル（.mp4）を格納  
